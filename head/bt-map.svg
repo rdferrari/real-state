@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="36px" viewBox="0 0 27 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>placeholder</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-SE-Copy-2" transform="translate(-205.000000, -17.000000)" fill="#FFFFFF">
+            <g id="placeholder" filter="url(#filter-1)" transform="translate(207.000000, 18.000000)">
+                <g id="Capa_1">
+                    <g id="Group">
+                        <path d="M11.3786182,6.98181818 C9.13338182,6.98181818 7.30589091,8.80930909 7.30589091,11.0545455 C7.30589091,13.2997818 9.13338182,15.1272727 11.3786182,15.1272727 C13.6238545,15.1272727 15.4513455,13.2997818 15.4513455,11.0545455 C15.4513455,8.80930909 13.6238545,6.98181818 11.3786182,6.98181818 Z M11.3786182,13.9636364 C9.77454545,13.9636364 8.46952727,12.6586182 8.46952727,11.0545455 C8.46952727,9.45047273 9.77454545,8.14545455 11.3786182,8.14545455 C12.9826909,8.14545455 14.2877091,9.45047273 14.2877091,11.0545455 C14.2877091,12.6586182 12.9826909,13.9636364 11.3786182,13.9636364 Z" id="Shape"></path>
+                        <path d="M19.1650909,3.26807273 C17.0577455,1.16072727 14.2557091,0 11.2756364,0 C8.29498182,0 5.49352727,1.16072727 3.38618182,3.26807273 C-0.513745455,7.16741818 -0.9984,14.5041455 2.33658182,18.9492364 L11.2756364,31.8586182 L20.2013091,18.9672727 C23.5496727,14.5041455 23.0650182,7.16741818 19.1650909,3.26807273 Z M19.2576,18.2871273 L11.2756364,29.8141091 L3.28087273,18.2690909 C0.256,14.2359273 0.689454545,7.61018182 4.20945455,4.09076364 C6.09687273,2.20334545 8.60625455,1.16363636 11.2756364,1.16363636 C13.9450182,1.16363636 16.4544,2.20334545 18.3424,4.09076364 C21.8624,7.61018182 22.2958545,14.2359273 19.2576,18.2871273 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

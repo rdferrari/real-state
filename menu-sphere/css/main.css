@@ -1,0 +1,33 @@
+html {
+  background-color: #313131;
+  text-align: center;
+  overflow-x: hidden;
+}
+
+.row {
+  background-color: #313131;
+  text-align: center;
+}
+
+.col-xs-6 {
+  text-shadow: center;
+}
+
+.spheres {
+  margin-top: 20px;
+  width: 120px;
+}
+
+.title {
+  color: white;
+  font-family: "Roboto";
+  font-size: 10px;
+  font-weight: 200;
+  margin-top: 5px;
+}
+
+@media only screen and (min-width: 500px) {
+  .spheres {
+    width: 180px;
+  }
+}

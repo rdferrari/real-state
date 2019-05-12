@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="34px" viewBox="0 0 49 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-SE-Copy-2" transform="translate(-257.000000, -18.000000)" stroke="#FFFFFF">
+            <g id="Group-13" filter="url(#filter-1)" transform="translate(260.000000, 20.000000)">
+                <g id="Group-12" transform="translate(6.396777, 7.385593)">
+                    <ellipse id="Oval-2" cx="4.79758247" cy="4.80508475" rx="4.79758247" ry="4.80508475"></ellipse>
+                    <ellipse id="Oval-2" cx="25.1725006" cy="4.80508475" rx="4.79758247" ry="4.80508475"></ellipse>
+                </g>
+                <path d="M0,2.35318459 L0,25.5626986 C0,26.300053 0.69710243,27.8655985 2.01032958,27.8655985 C3.32355672,27.8655985 12.5633452,27.8785752 13.1600353,27.8720869 C13.7567253,27.8655985 14.5803843,27.6945842 15.2187201,26.3327264 C15.8570558,24.9708686 17.052981,20.0235037 18.4534327,18.3534494 C19.8538844,16.6833951 22.71448,16.4006886 23.9613054,18.1446637 C25.2081308,19.8886388 26.8101014,25.2816141 27.2677411,26.078754 C27.7253809,26.8758938 27.9502676,27.9012844 29.3062972,27.9012844 C30.6623269,27.9012844 38.9065522,27.8491459 40.0682353,27.8491459 C41.2299185,27.8491459 42.6789568,26.9729873 42.6789568,25.5031449 C42.6789568,24.0333024 42.6407816,3.59408104 42.6407816,2.36430747 C42.6407816,1.1345339 41.1005855,0 40.4287018,0 C39.7568182,0 3.22939121,0.00301244703 2.22873804,0.00301244703 C1.22808487,0.00301244703 8.32907119e-17,1.3333554 0,2.35318459 Z" id="Path-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>
